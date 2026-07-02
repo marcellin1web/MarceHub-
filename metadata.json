@@ -1,0 +1,6 @@
+{
+  "name": "MarceHub",
+  "description": "A professional social platform with real-time features, secure roles, user profiles, rich messaging, and a comprehensive admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
